@@ -1,0 +1,5 @@
+flex lexer.l
+bison -d parser.y
+gcc -g parser.tab.c lex.yy.c -ll
+./a.out <filename
+
