@@ -1,6 +1,6 @@
 # Mini C Compiler
 
-This project is a **Mini Compiler for a subset of the C language**, built as part of the Compiler Design course (UE22CS341B) at PES University. The compiler is designed to **validate the syntax of a C program** through multiple phases, including Lexical Analysis, Syntax Analysis, and Semantic Analysis.
+This project is a **Mini Compiler for a subset of the C language**, built as part of the Compiler Design course at PES University. The compiler is designed to **validate the syntax of a C program** through multiple phases, including Lexical Analysis, Syntax Analysis, and Semantic Analysis.
 
 ## 📌 Features
 - **Lexical Analysis** using `lex`/`flex`:
