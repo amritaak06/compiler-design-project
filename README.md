@@ -33,7 +33,7 @@ sudo apt-get install flex bison gcc
 ### 🛠️ Compilation & Execution
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/mini-c-compiler.git
+   git clone https://github.com/amritaak06/mini-c-compiler.git
    cd mini-c-compiler
    ```
 2. Compile the lexical analyzer:
